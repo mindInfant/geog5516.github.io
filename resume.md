@@ -27,9 +27,9 @@ Master's in Energy and Environmental Management
 
 # Skills
 * GIS
- * ArcGIS Pro
- * ArcGIS Online
- * QGIS
+  * ArcGIS Pro
+  * ArcGIS Online
+  * QGIS
 * Microsoft Office
   * Word
   * Excel
